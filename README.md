@@ -16,15 +16,7 @@
  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="css" style="display: inline-block">
 </div>
 
-
 ## My Socials
-
-<div style="display: inline_block"><br>
-
-</div>
-  
-  ##
- 
 <div> 
 
   <a href="https://github.com/gabrielmolinaris" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
