@@ -16,6 +16,7 @@
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" style="display: inline-block">
  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" style="display: inline-block">
  <img src="https://img.shields.io/badge/UML-667881?style=for-the-badge" alt="uml" style="display: inline-block"> 
+ <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor">
 
 
 </div>
