@@ -10,6 +10,13 @@
 :books: Currently starting my post-graduantion in Cloud Computing.
 
 <div>
+ <img src="https://icongr.am/devicon/java-original-wordmark.svg?size=50&color=currentColor" alt="java" style="display: inline-block">
+ <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=50&color=currentColor" alt="sql" style="display: inline-block"> 
+ <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=50&color=currentColor" alt="html" style="display: inline-block">
+ <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=50&color=currentColor" alt="css" style="display: inline-block">
+ <img src="https://icongr.am/devicon/git-original.svg?size=50&color=currentColor" alt="git" style="display: inline-block">
+
+ <!--
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" style="display: inline-block">
  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="sql" style="display: inline-block">
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" style="display: inline-block">
@@ -17,7 +24,7 @@
  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" style="display: inline-block">
  <img src="https://img.shields.io/badge/UML-667881?style=for-the-badge" alt="uml" style="display: inline-block"> 
  <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor">
-
+-->
 
 </div>
 
